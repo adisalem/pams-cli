@@ -20,3 +20,7 @@ Thumbs.db
 
 # Java bytecode
 *.class
+
+# Local generated files
+cp.txt
+patients.json
